@@ -8,7 +8,7 @@
 
 -The game was build as a final project for COAL class at my university.
 
--The primary focus from my end was on building visual elements and interactivity in the game as weel as implementing multi-tasking.
+-The primary focus from my end was on building visual elements and interactivity in the game as well as implementing multi-tasking.
 
 -The code was required to be functional and to be fulfilling all the described requirements in the design document.
 
