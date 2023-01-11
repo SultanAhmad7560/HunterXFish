@@ -1,14 +1,20 @@
-' _    _ _    _ _   _ _______ ______ _____   __   __  ______ _____  _____ _    _  '
-'| |  | | |  | | \ | |__   __|  ____|  __ \  \ \ / / |  ____|_   _|/ ____| |  | | '
-'| |__| | |  | |  \| |  | |  | |__  | |__) |  \ V /  | |__    | | | (___ | |__| | '
-'|  __  | |  | | . ` |  | |  |  __| |  _  /    > <   |  __|   | |  \___ \|  __  | '
-'| |  | | |__| | |\  |  | |  | |____| | \ \   / . \  | |     _| |_ ____) | |  | | '
-'|_|  |_|\____/|_| \_|  |_|  |______|_|  \_\ /_/ \_\ |_|    |_____|_____/|_|  |_| '
+<h1 align="center">HunterXFish</h1>
 
-This is my assembly language (8088 architecture) project made with my teamate @SultanAhmad7560.
+-This is my assembly language (8088 architecture) project that is implemented using sub-routines,string instructions,DOS/BIOS services,interrupts and multi-tasking.
 
-The idea behind the project includes implementing sub-routines,string instructions,DOS/BIOS services,interrupts and multi-tasking.
+![WhatsApp Image 2022-12-17 at 18 14 14](https://user-images.githubusercontent.com/71124592/211879712-bd8d5118-445b-4848-9154-50fa78533ff2.jpg)
 
-The instructions on how to play are given inside the game.
+<h2 align= "left">Objectives</h2>
 
-Pledgerism is highly discouraged and is recommended that if you're a student you should only take help from this or you can reach out to me as well.
+-The game was build as a final project for COAL class at my university.
+-The primary focus from my end was on building visual elements and interactivity in the game as weel as implementing multi-tasking.
+-The code was required to be functional and to be fulfilling all the described requirements in the design document.
+
+<h2 align= "left">Acknowledgements</h2>
+
+-This project was made in collaboration with my team mate and friend @SultanAhmad7560.
+
+<h2 align= "left">License & Usage</h2>
+-MIT
+
+-Pledgerism is highly discouraged and is recommended that if you're a student please dont copy although you can reach out to me.
