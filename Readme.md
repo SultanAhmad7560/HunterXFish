@@ -37,7 +37,7 @@ HunterXFish.com
 
 <h2 align= "left">Acknowledgements</h2>
 
--This project was made in collaboration with my team mate and friend @SultanAhmad7560.
+-This project was made in collaboration with my team mate and friend @Mehdy922.
 
 <h2 align= "left">License & Usage</h2>
 -MIT
